@@ -12,7 +12,7 @@ Origine : [Build Your Own ECSC Team](https://hackropole.fr/fr/challenges/pwn/fcs
 > http://localhost
 
 #### Tentez 
-> nc build-your-own-team.cyrhades.com:4000
+> nc build-your-own-team.cyrhades.fr:4000
 
 
 
